@@ -1,5 +1,5 @@
 CREATE TABLE project (
-  id PRIMARY KEY INTEGER,
+  id INTEGER PRIMARY KEY,
   title TEXT,
   category TEXT,
   goal INTEGER,
